@@ -19,4 +19,4 @@
 - [Fundamental Exercises](https://drive.google.com/file/d/1v2aGwLchM0KgnMi4MRmyC_md1_4w2iHc/view?usp=share_link)
 - [គម្រូដោះស្រាយលំហាត់សមីការដែលមានភាគបែងជាអញ្ញាត្តិ](https://drive.google.com/file/d/1xXtwxajmRJBEQbLP2j_VVAT1ZrNZom2o/view?usp=share_link)
 # 📚 Let Get Start 
-* [Term 1]
+* [Term 1](Term 1)
